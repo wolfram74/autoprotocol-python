@@ -98,6 +98,14 @@ Protocol.uncover()
 ^^^^^^^^^^^^^^^^^^
 .. automethod:: autoprotocol.protocol.Protocol.uncover
 
+Protocol.spread()
+^^^^^^^^^^^^^^^^^
+.. automethod:: autoprotocol.protocol.Protocol.spread
+
+Protocol.autopick()
+^^^^^^^^^^^^^^^^^^^
+.. automethod:: autoprotocol.protocol.Protocol.autopick
+
 protocol.Ref
 ~~~~~~~~~~~~
 
